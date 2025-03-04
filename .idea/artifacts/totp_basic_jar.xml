@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="totp-basic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/totp_basic_jar</output-path>
+    <root id="archive" name="totp-basic.jar">
+      <element id="module-output" name="totp-basic" />
+    </root>
+  </artifact>
+</component>
